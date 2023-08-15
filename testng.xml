@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Adarsh/IdeaProjects/pratice/src/main/java/crossbrowser"><classes><class name="crossbrowser.Browser"><methods><include name="main"/><include name="testParameterWithXML"/></methods></class></classes></test></suite>
